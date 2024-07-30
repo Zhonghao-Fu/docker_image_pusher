@@ -1,4 +1,4 @@
-chainguard/cadvisor
+chainguard/cadvisor icr.io/ibmz/cadvisor@sha256:329805ba95aa2ceffab4bd4980e0b77832467cd14086d939d61e11c4c583ebf6
 
 #支持私库
 
