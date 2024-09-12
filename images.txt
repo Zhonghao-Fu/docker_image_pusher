@@ -4,6 +4,8 @@ gcr.io/cadvisor/cadvisor-arm64:v0.49.1
 busybox
 centos:centos7
 golang:1.15
+golang:1.16
+golang:1.18
 mysql:5.7.44
 
 #支持私库
