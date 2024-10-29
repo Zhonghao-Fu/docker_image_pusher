@@ -8,6 +8,7 @@ golang:1.16
 golang:1.18
 mysql:5.7.44
 alpine:3.10
+golang:1.23
 
 #支持私库
 
